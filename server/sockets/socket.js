@@ -33,10 +33,10 @@ io.on('connection', (client) => {
 	});
 
 	// Enviar mensaje al cliente
-	/*
+	
 	client.emit('enviarMensaje', {
 		usuario:'Administrador',
 		mensaje:'YO MANDO'
 	});
-	*/
+	
 })
